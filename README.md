@@ -31,6 +31,7 @@
     echo 1 > /dev/myled0
     echo 3 > /dev/myled0
     echo 5 > /dev/myled0
+ # ライセンス
  
  https://github.com/inadashogo/robosis/blob/baec4107f14362a07abd488b6190be8065011150/COPYING
 
