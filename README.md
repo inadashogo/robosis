@@ -21,7 +21,12 @@
 # インストール・アンインストール・ビルド　コマンド
 　インストール
      
-     git clone http://github.com
+     git clone https://github.com/inadashogo/robosis.git
+     cd robosis
+     make
+     sudo insmod myled.ko
+     sudo chmod 666 /dev/myled
+     
 # 実行コマンド
 
 　消去コマンド
