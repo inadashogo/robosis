@@ -18,14 +18,21 @@
    ・抵抗
 # 概要
    ・数字の0~5でLEDを消したり、光らせる。
-# インストール・アンインストール・ビルド　コマンド
+# インストール・ビルド・アンインストール　コマンド
 　インストール
      
      git clone https://github.com/inadashogo/robosis.git
      cd robosis
+     
+  ビルド
+  
      make
      sudo insmod myled.ko
      sudo chmod 666 /dev/myled
+     
+   アンインストール
+     
+     sudo rmmod myled
      
 # 実行コマンド
 
