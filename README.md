@@ -16,10 +16,17 @@
    ・ブレッドボード
    
    ・抵抗
+   
+# 回路写真
+
+<img src="(https://user-images.githubusercontent.com/95764130/146651184-764b3f8e-e1d2-493e-91a3-deb256b17b59.jpg)"
+
+   
 # 概要
    ・数字の0~5でLEDを消したり、光らせる。
 # インストール・ビルド・アンインストール　コマンド
-　インストール
+     
+  インストール
      
      git clone https://github.com/inadashogo/robosis.git
      cd robosis
@@ -40,9 +47,12 @@
 　
  # ライセンス
  
- https://github.com/inadashogo/robosis/blob/baec4107f14362a07abd488b6190be8065011150/COPYING
+ GNU General Public License v3.0
+ 
+ COPYING 参照
  
  # 著作権
+   Ueda Ryuichi
  
  
  
